@@ -11,6 +11,6 @@ Some really good type of people need a lot of accounts for steam, and I am one o
 
 3) and chose on what account you will login and click login
 
-![image](https://user-images.githubusercontent.com/73321844/125362646-1a082000-e324-11eb-9708-6f10590315ca.png)
+![image](https://user-images.githubusercontent.com/73321844/125362671-24c2b500-e324-11eb-9b65-1bd83806ed7e.png)
 
 
