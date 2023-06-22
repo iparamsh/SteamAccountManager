@@ -1,0 +1,11 @@
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\bin\Release\SteamAccountManager.exe.config
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\bin\Release\SteamAccountManager.exe
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\bin\Release\SteamAccountManager.pdb
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Release\SteamAccountManager.Form1.resources
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Release\SteamAccountManager.Properties.Resources.resources
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Release\SteamAccountManager.csproj.GenerateResource.cache
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Release\SteamAccountManager.csproj.CoreCompileInputs.cache
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Release\SteamAccountManager.exe
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Release\SteamAccountManager.pdb
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Release\SteamAccountManager.csproj.AssemblyReference.cache
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Release\SteamAccountManager.csproj.SuggestedBindingRedirects.cache

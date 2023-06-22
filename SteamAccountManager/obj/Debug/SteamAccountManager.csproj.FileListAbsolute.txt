@@ -8,3 +8,15 @@ C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Debug\St
 C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.csproj.CoreCompileInputs.cache
 C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.exe
 C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.pdb
+C:\Users\illya\source\repos\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\bin\Debug\SteamAccountManager.exe.config
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\bin\Debug\SteamAccountManager.exe
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\bin\Debug\SteamAccountManager.pdb
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.csproj.AssemblyReference.cache
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.Form1.resources
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.Properties.Resources.resources
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.csproj.GenerateResource.cache
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.csproj.CoreCompileInputs.cache
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.exe
+C:\Users\illya\source\repos\IlliaParamosh\SteamAccountManager\SteamAccountManager\obj\Debug\SteamAccountManager.pdb
